@@ -1,0 +1,35 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Docker logs
+*.log
+*.pid
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# Coverage
+htmlcov/
+.coverage
+coverage.xml
+
+# Build
+dist/
+build/
+*.egg-info/
